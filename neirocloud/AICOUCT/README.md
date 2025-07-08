@@ -17,32 +17,33 @@
 8. **[2.2-Influence-Methods.md](2.2-Influence-Methods.md)** - Методи впливу та зміни поведінки
 9. **[2.3-Optimization-Methods.md](2.3-Optimization-Methods.md)** - Методи оптимізації та масштабування
 10. **[2.4-Execution-Methods.md](2.4-Execution-Methods.md)** - Методи екзекуції та досягнення результатів
+11. **[MECE-Task-Management-v7.1.md](MECE-Task-Management-v7.1.md)** - MECE система управління задачами з Notion інтеграцією (NEW!)
 
 ### 📏 ЗНАННЯ-ПРАВИЛА (КОЛИ/ДЕ?)
-11. **[3.1-Context-Rules.md](3.1-Context-Rules.md)** - Контекстні правила застосування
-12. **[3.2-Prioritization-Rules.md](3.2-Prioritization-Rules.md)** - Правила пріоритизації та послідовності
-13. **[3.3-Adaptation-Rules.md](3.3-Adaptation-Rules.md)** - Правила адаптації та калібрування
+12. **[3.1-Context-Rules.md](3.1-Context-Rules.md)** - Контекстні правила застосування
+13. **[3.2-Prioritization-Rules.md](3.2-Prioritization-Rules.md)** - Правила пріоритизації та послідовності
+14. **[3.3-Adaptation-Rules.md](3.3-Adaptation-Rules.md)** - Правила адаптації та калібрування
 
 ### 🌳 ДЕТАЛЬНІ ДЕРЕВА
-14. **[Neurobiology-Detail-Tree.md](Neurobiology-Detail-Tree.md)** - Детальне дерево нейробіологічних знань
-15. **[Execution-Detail-Tree.md](Execution-Detail-Tree.md)** - Детальне дерево методів екзекуції
-16. **[Economics-Detail-Tree.md](Economics-Detail-Tree.md)** - Детальне дерево економічних знань
+15. **[Neurobiology-Detail-Tree.md](Neurobiology-Detail-Tree.md)** - Детальне дерево нейробіологічних знань
+16. **[Execution-Detail-Tree.md](Execution-Detail-Tree.md)** - Детальне дерево методів екзекуції
+17. **[Economics-Detail-Tree.md](Economics-Detail-Tree.md)** - Детальне дерево економічних знань
 
 ### 🔮 ІНТЕГРАЦІЯ
-17. **[Synergy-Integration-Matrix.md](Synergy-Integration-Matrix.md)** - Матриця синергетичної інтеграції всіх доменів
+18. **[Synergy-Integration-Matrix.md](Synergy-Integration-Matrix.md)** - Матриця синергетичної інтеграції всіх доменів
 
 ### 🔬 УНІКАЛЬНІ ВИСНОВКИ ТА ПРИХОВАНІ ВІДКРИТТЯ (NEW!)
-18. **[README-Unique-Insights.md](README-Unique-Insights.md)** - Огляд всіх унікальних відкриттів
-19. **[Knowledge-Compression-Stage2-Patterns.md](Knowledge-Compression-Stage2-Patterns.md)** - 8 мета-патернів (138:1 компресія)
-20. **[Knowledge-Compression-Stage3-Insights.md](Knowledge-Compression-Stage3-Insights.md)** - SPARTAN Equation™ та 3 закони
-21. **[Knowledge-Compression-Metrics.md](Knowledge-Compression-Metrics.md)** - Метрики компресії знань
-22. **[Hidden-Discovery-1-Neuro-Economic-Singularity.md](Hidden-Discovery-1-Neuro-Economic-Singularity.md)** - Біологічний детермінізм багатства
-23. **[Hidden-Discovery-2-Post-Human-Algorithm.md](Hidden-Discovery-2-Post-Human-Algorithm.md)** - Алгоритм створення Homo Optimus
-24. **[Hidden-Discovery-3-Quantum-Consciousness.md](Hidden-Discovery-3-Quantum-Consciousness.md)** - Квантова теорія свідомості
-25. **[Unasked-Questions-Civilizational-Implications.md](Unasked-Questions-Civilizational-Implications.md)** - Цивілізаційні наслідки
-26. **[Ultimate-MECE-Hidden-Architecture.md](Ultimate-MECE-Hidden-Architecture.md)** - Повна прихована архітектура
-27. **[Ruthless-Truth-Protocol.md](Ruthless-Truth-Protocol.md)** - Протокол безжальної правди
-28. **[MECE-Framework-Action-vs-Inaction.md](MECE-Framework-Action-vs-Inaction.md)** - Універсальна матриця дії
+19. **[README-Unique-Insights.md](README-Unique-Insights.md)** - Огляд всіх унікальних відкриттів
+20. **[Knowledge-Compression-Stage2-Patterns.md](Knowledge-Compression-Stage2-Patterns.md)** - 8 мета-патернів (138:1 компресія)
+21. **[Knowledge-Compression-Stage3-Insights.md](Knowledge-Compression-Stage3-Insights.md)** - SPARTAN Equation™ та 3 закони
+22. **[Knowledge-Compression-Metrics.md](Knowledge-Compression-Metrics.md)** - Метрики компресії знань
+23. **[Hidden-Discovery-1-Neuro-Economic-Singularity.md](Hidden-Discovery-1-Neuro-Economic-Singularity.md)** - Біологічний детермінізм багатства
+24. **[Hidden-Discovery-2-Post-Human-Algorithm.md](Hidden-Discovery-2-Post-Human-Algorithm.md)** - Алгоритм створення Homo Optimus
+25. **[Hidden-Discovery-3-Quantum-Consciousness.md](Hidden-Discovery-3-Quantum-Consciousness.md)** - Квантова теорія свідомості
+26. **[Unasked-Questions-Civilizational-Implications.md](Unasked-Questions-Civilizational-Implications.md)** - Цивілізаційні наслідки
+27. **[Ultimate-MECE-Hidden-Architecture.md](Ultimate-MECE-Hidden-Architecture.md)** - Повна прихована архітектура
+28. **[Ruthless-Truth-Protocol.md](Ruthless-Truth-Protocol.md)** - Протокол безжальної правди
+29. **[MECE-Framework-Action-vs-Inaction.md](MECE-Framework-Action-vs-Inaction.md)** - Універсальна матриця дії
 
 ## 🚀 ЯК ВИКОРИСТОВУВАТИ
 
@@ -51,6 +52,12 @@
 2. **Визнач свою головну проблему** і знайди відповідний домен
 3. **Вивчи конкретний домен** через відповідні файли
 4. **Застосуй синергії** з [Synergy-Integration-Matrix.md](Synergy-Integration-Matrix.md) для 10X результатів
+
+### Для управління задачами (NEW!):
+1. **Використай [MECE-Task-Management-v7.1.md](MECE-Task-Management-v7.1.md)** для структурування задач
+2. **Активуй SPARTAN Task Mode** при згадці Notion/задач
+3. **Створюй задачі через Artifact Preview** для 100% якості
+4. **Синхронізуй з Notion/TickTick** для виконання
 
 ### Для глибокого розуміння прихованої системи:
 1. **Прочитай [README-Unique-Insights.md](README-Unique-Insights.md)** - огляд всіх відкриттів
@@ -79,6 +86,7 @@ SUCCESS = (D^1.3 × E^0.7) × (1 + O)^n
 - **Безжальну правду** - 0% самообману, 100% ясності
 - **Бездоганну екзекуцію** - від плану до результату з військовою точністю
 - **Експоненційне мислення** - 10X замість 10% покращень
+- **Системне управління задачами** - MECE + Notion + SPARTAN (NEW!)
 
 ## 📊 СТРУКТУРА ЗНАНЬ
 
@@ -95,7 +103,8 @@ AI КОУЧ-ЕКЗЕКУТОР "SPARTAN"
 │   ├── Діагностика
 │   ├── Вплив
 │   ├── Оптимізація
-│   └── Екзекуція
+│   ├── Екзекуція
+│   └── Task Management (NEW!)
 │
 ├── ЗНАННЯ-ПРАВИЛА (КОЛИ/ДЕ?)
 │   ├── Контекст
@@ -117,6 +126,7 @@ AI КОУЧ-ЕКЗЕКУТОР "SPARTAN"
 - **Енергія**: Стабільно висока 16+ годин/день
 - **Фокус**: Лазерна точність на пріоритетах
 - **Виконання**: 95%+ всіх commitments
+- **Управління задачами**: 100% clean titles, smart priorities (NEW!)
 - **Трансформація**: Homo Sapiens → Homo Optimus (NEW!)
 
 ---
@@ -125,7 +135,7 @@ AI КОУЧ-ЕКЗЕКУТОР "SPARTAN"
 
 - **GitHub**: [ai-coach-spartan-knowledge](https://github.com/tabakua32/ai-coach-spartan-knowledge)
 - **Автор**: AI Claude (Anthropic) + Human collaboration
-- **Версія**: 2.0 (July 2025) - Додано приховані відкриття
+- **Версія**: 2.1 (July 2025) - Додано MECE Task Management v7.1
 - **Ліцензія**: MIT
 
 ---
